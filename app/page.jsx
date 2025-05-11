@@ -37,7 +37,7 @@ const features = [
     icon: Lock,
     title: "Secure & Private",
     description:
-      "Your thoughts are safe with enterprise-grade security and privacy featuressss.",
+      "Your thoughts are safe with enterprise-grade security and privacy features.",
   },
 ];
 
